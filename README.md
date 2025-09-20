@@ -6,10 +6,10 @@ Chart Generator Agent → Leverages a Python REPL tool to create visualizations 
 
 Workflow:
 
-User uploads a document.
+1. User uploads a document.
 
-User asks a question.
+2. User asks a question.
 
-Retriever Agent extracts the necessary information.
+3. Retriever Agent extracts the necessary information.
 
-Chart Generator Agent turns that information into a chart.
+4. Chart Generator Agent turns that information into a chart.
